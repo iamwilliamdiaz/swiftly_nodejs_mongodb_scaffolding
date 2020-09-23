@@ -1,1 +1,2 @@
-# swiftly_nodejs_mongodb_scaffolding
+# swiftly_nodejs_scaffolding
+NodeJs Typescript Project with Integration/Unit Test
