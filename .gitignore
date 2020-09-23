@@ -1,6 +1,7 @@
 build/*
 node_modules
 src/.DS_Store
+coverage
 .DS_Store
 .history/
 .docs/*
