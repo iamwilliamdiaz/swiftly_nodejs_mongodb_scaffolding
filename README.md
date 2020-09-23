@@ -1,0 +1,1 @@
+# swiftly_nodejs_mongodb_scaffolding
